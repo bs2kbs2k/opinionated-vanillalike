@@ -1,0 +1,13 @@
+name = "Just Optimized"
+author = "bs2kbs2k"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1c4c2499ec6fa3b19b6b30889939aff8db6ba290bb961519a076c55ddc92fd09"
+
+[versions]
+minecraft = "1.19"
+quilt = "0.17.1-beta.1"

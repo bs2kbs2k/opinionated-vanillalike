@@ -1,0 +1,85 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "955b5160e856fbc93b615ad021e78421383177db29a1b0bc451e2840ad659f79"
+metafile = true
+
+[[files]]
+file = "mods/dashloader.pw.toml"
+hash = "e9ae0492006c9a6bc309bee3658dcc6ebb96d213f74f6285bac4ae26ffc67631"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "1918aa326b46eb07df8cfcc173b089a55e0334336aa71ad3d211be90dfbe6616"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "9ae76046167e451e37eb846a72b8ff2b04b997767b717b37f4c8c586f08a5ef6"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "86fd4c1bb6f13fa109dfd1aa1e9cb84ffe71408de8da790b21d9756972740ad1"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "e516d6d036f6d407a793c3b9a1fc5a8a817b05c9dc9d8677003fb0a512b2bf6f"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "a2bb983e5dffe95d1f92ee19a099ed214f9b3d39c4e9f8eb5991a1a3c7735b45"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "8fb914c75a06a677721dd1fc880606d790886be9e0b392820dcecb9bb56e0786"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "f264c166b22cf93af5e44a3d65931e2a46008d11ee0cd81f209a3af54979a760"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "f0a7c49ae4417a753722da78046a7513e059e5964e21154f4aef50df6a1d6ed0"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0d539d8bad8493d4196bf5f7bf216d692384f283849fa41a2e5a816a0147673e"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "0212996355de904aa968661624fd9230d1b31d85b201b9ab01bb9e94ac0fe73c"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "eda1cc1a41819d633cc5161ea985aa3f4cbf8f7901496bbde160c885ea808628"
+metafile = true
