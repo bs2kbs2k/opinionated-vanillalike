@@ -10,6 +10,11 @@ hash = "955b5160e856fbc93b615ad021e78421383177db29a1b0bc451e2840ad659f79"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "749bf88d67ff9ddf272dc48d82402dd61ea2812238dfca4feb1fd78440675456"
+metafile = true
+
+[[files]]
 file = "mods/dashloader.pw.toml"
 hash = "e9ae0492006c9a6bc309bee3658dcc6ebb96d213f74f6285bac4ae26ffc67631"
 metafile = true
