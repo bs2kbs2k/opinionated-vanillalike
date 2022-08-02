@@ -1,0 +1,8 @@
+name = "Carpet Extra"
+filename = "carpet-extra-1.19.1-1.4.83.jar"
+side = "server"
+
+[download]
+url = "https://github.com/gnembon/carpet-extra/releases/download/1.4.83/carpet-extra-1.19.1-1.4.83.jar"
+hash-format = "sha1"
+hash = "aa5dc49f61db4a4aead9dc2d363ea090641b4211"

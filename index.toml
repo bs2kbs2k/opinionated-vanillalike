@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "726f64c18eb42ce0c4d4d7c8d69f2d52c1e6da2b65f49d2a0abfb7eca20758a3"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "6ac348b37c18fde63fdffb612986ad0998c921f470e6e714ba53c8bd647752ba"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "5b6a49a1f18adac12e9da13035102cb763e7371a93c2358e25cf74e014366e59"
 metafile = true
@@ -58,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "73bc2fb1fd275fd88efd075bc03153d6b2d6d34871f62a94208db5c28f17805b"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "13c71598d788235d793bd8f488dbe636f1dc6952425c24285c2d188f7a1d024a"
 metafile = true
 
 [[files]]

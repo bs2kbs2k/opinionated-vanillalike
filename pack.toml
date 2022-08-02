@@ -1,4 +1,4 @@
-name = "Just Optimized"
+name = "Opinionated Vanilla-like"
 author = "bs2kbs2k"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6cfe9a28f83c9f3e0a0b9d838219ebf850ae7871bb4e57d7f782c1a42f2fc084"
+hash = "36fdfe43ddc0ec5dc92711e0f86a938200a7e022c699cf099c32410ffaf36b5e"
 
 [versions]
 minecraft = "1.19.1"
