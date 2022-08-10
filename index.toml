@@ -36,6 +36,11 @@ hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
 metafile = true
 
 [[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "ea71f8679ff436996c48a8ca94b083740acd82a268e79618f7823f5f507b187f"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "eefcd81493fa26fa8135cf85495cbfb52127aa43667c5a4faea27d16d7bb2191"
 metafile = true
